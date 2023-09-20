@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii, eu sou o Gustavo Pires
 
 <picture>
   <source
@@ -13,4 +13,4 @@
 </picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuxtaPires&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuxtaPires&layout=compact"/>
