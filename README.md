@@ -5,7 +5,7 @@
 <br>
 
 ## Principais linguagens de programação 🖥
-![My Technologies](https://skillicons.dev/icons?i=html,css,cs,py,arduino,java)
+![My Technologies](https://skillicons.dev/icons?i=html,css,cs,arduino,java)
 
 <br>
 
