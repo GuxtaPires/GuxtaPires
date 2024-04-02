@@ -18,7 +18,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuxtaPires&layout=compact)](https://github.com/GuxtaPires/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuxtaPires&layout=compact&theme=transparent)](https://github.com/GuxtaPires/github-readme-stats)
 <div> 
 
 ## Redes Sociais 📞
