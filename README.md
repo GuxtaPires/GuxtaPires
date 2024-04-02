@@ -13,7 +13,9 @@
 ![My Technologies](https://skillicons.dev/icons?i=github,discord,vscode,visualstudio,windows,idea,notion)
 
 <br>
- 
+## Graficos do meu GitHub
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div> 
 
 ## Redes Sociais 📞
