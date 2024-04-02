@@ -13,6 +13,7 @@
 ![My Technologies](https://skillicons.dev/icons?i=github,discord,vscode,visualstudio,windows,idea,notion)
 
 <br>
+
 ## Graficos do meu GitHub
 
 <br>
