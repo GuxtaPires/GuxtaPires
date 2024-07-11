@@ -40,8 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/guxtapires/guxtapires/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
