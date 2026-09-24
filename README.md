@@ -6,24 +6,23 @@
 
 </div>
 
-<br>
+<div>
 
 ## 👨‍💻 Sobre mim
 
-Sou **Gustavo Pires**, formado em **Análise e Desenvolvimento de Sistemas** e atuo na área de **Transformação Digital**, conectando tecnologia, dados e processos.
+</div>
 
-Tenho interesse em **Data Analytics, Data Science e Inteligência Artificial**, buscando transformar problemas de negócio em soluções práticas através da tecnologia.
+Sou **Gustavo Pires**, formado em **Análise e Desenvolvimento de Sistemas** pela Fatec de Guarulhos e atualmente atuo como **Auditor I no Santander Brasil**.
 
-* 💻 Python, SQL e Power BI
-* 📊 Dados, Analytics e visualização
-* 🤖 Inteligência Artificial e LLMs
-* ⚙️ Automação e melhoria de processos
+Minha experiência envolve **Power BI, Excel, Python e análise de dados**, aplicados a auditoria interna, riscos operacionais e digitalização de processos.
+
+Tenho interesse em **Data Analytics, Data Science e Inteligência Artificial**, buscando ampliar a aplicação de tecnologia e dados em problemas de negócio.
 
 <br>
 
-## 🛠️ Tecnologias & Ferramentas
-
 <div align="center">
+  
+## 🛠️ Tecnologias & Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
 <img width="12"/>
@@ -43,9 +42,9 @@ Tenho interesse em **Data Analytics, Data Science e Inteligência Artificial**, 
 
 <br>
 
-## 📊 Estatísticas
-
 <div align="center">
+
+## 📊 Estatísticas
 
 <img src="https://github-stats-extended.vercel.app/api?username=GuxtaPires&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&border_radius=15&title_color=813dd1&icon_color=b98eff&text_color=e6e6e6&bg_color=45,0d1117,1a103d&ring_color=813dd1&rank_icon=github&locale=en" height="150" alt="GitHub Stats"/>
 
@@ -57,7 +56,19 @@ Tenho interesse em **Data Analytics, Data Science e Inteligência Artificial**, 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuxtaPires&hide_border=true&border_radius=15&background=45,0d1117,1a103d&ring=813dd1&fire=c084fc&currStreakNum=ffffff&sideNums=e6e6e6&currStreakLabel=c084fc&sideLabels=b3b3b3&dates=9d9d9d" alt="GitHub Streak"/>
+## 🔥 Atividade
+
+<img src="https://streak-stats.demolab.com/?user=GuxtaPires&hide_border=true&border_radius=15&background=45,0d1117,1a103d&ring=813dd1&fire=c084fc&currStreakNum=ffffff&sideNums=e6e6e6&currStreakLabel=c084fc&sideLabels=b3b3b3&dates=9d9d9d" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📈 Contribuições
+
+<img src="https://ghchart.rshah.org/813dd1/GuxtaPires" alt="GitHub Contribution Chart"/>
 
 </div>
 
@@ -79,9 +90,9 @@ Tenho interesse em **Data Analytics, Data Science e Inteligência Artificial**, 
 
 <br>
 
-## 🏆 Troféus
-
 <div align="center">
+
+## 🏆 Troféus
 
 <img src="https://github-trophies.vercel.app/?username=GuxtaPires&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
 
@@ -89,27 +100,26 @@ Tenho interesse em **Data Analytics, Data Science e Inteligência Artificial**, 
 
 <br>
 
-## 🌐 Contato
-
 <div align="center">
 
+## 🌐 Contato
+
 <a href="https://www.linkedin.com/in/gustavodasilvapires" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-813dd1?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
 </a>
 
-  
+&nbsp;
 
-<a href="mailto:SEU_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
-</a>
-
-  
-
-<a href="https://instagram.com/guguinhafc" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"/>
+<a href="mailto:Gsdpires@gmail.com">
+<img src="https://img.shields.io/badge/Email-813dd1?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
 </a>
 
 </div>
+
+<br>
+
+<div align="center">
+
 
 ## 🎧 Ouvindo agora
 
