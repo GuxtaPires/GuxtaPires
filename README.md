@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+Gustavo+Pires;Dados+%7C+Tecnologia+%7C+IA;Transformando+problemas+em+soluções;Bem-vindo+ao+meu+GitHub!"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+Gustavo+Pires;Dados+%7C+Tecnologia+%7C+IA;Bem-vindo+ao+meu+GitHub!"/>
 
 </div>
 
