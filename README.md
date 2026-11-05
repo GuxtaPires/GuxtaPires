@@ -16,7 +16,7 @@ Sou **Gustavo Pires**, formado em **Análise e Desenvolvimento de Sistemas** pel
 
 Minha experiência envolve **Power BI, Excel, Python, toda a plataforma microsfot (power autommate, power apps e fabric) e análise de dados**, aplicados a auditoria interna, riscos operacionais e digitalização de processos.
 
-Tenho interesse em **Data Analytics, Data Science e Inteligência Artificial**, buscando ampliar a aplicação de tecnologia e dados em problemas de negócio.
+Tenho foco em **Data Analytics, Data Science e Inteligência Artificial**, buscando ampliar a aplicação de tecnologia e dados em problemas de negócio.
 
 <br>
 
