@@ -28,7 +28,7 @@ Atuo na interseção entre **negócios, tecnologia e governança**, desenvolvend
   <img src="https://img.shields.io/badge/Power_BI-813dd1?style=for-the-badge" height="32" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Microsoft_Fabric-813dd1?style=for-the-badge" height="32" alt="Microsoft Fabric"/>
   <img src="https://img.shields.io/badge/SQL-813dd1?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Excel_Avan%C3%A7ado-813dd1?style=for-the-badge" height="32" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Excel-813dd1?style=for-the-badge" height="32" alt="Excel"/>
   <img src="https://img.shields.io/badge/Power_Automate-813dd1?style=for-the-badge" height="32" alt="Power Automate"/>
   <img src="https://img.shields.io/badge/Power_Apps-813dd1?style=for-the-badge" height="32" alt="Power Apps"/>
 </p>
