@@ -1,5 +1,3 @@
-# Gustavo Pires | Data Analytics • Business Intelligence • Automação
-
 <!-- ========================================= -->
 <!-- BANNER -->
 <!-- ========================================= -->
